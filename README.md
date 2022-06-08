@@ -1,0 +1,1 @@
+Application developed for the purpose of studying flutter (app development kit).
